@@ -1,0 +1,304 @@
+YUKUN{
+MAKE{I was first thinking about the attack on "draw a stupid line through the stupid plot" with lasers and bullets. Another idea was to have ballistic missiles shoot out in semi-realistic trajectories. In the end though, I went for how it was so much fun to just play Age of Empires III against idiot AI and just guard the choke points while they kept slaughtering themselves.
+
+},
+EASY{The AI in Age of Empires III is quite atrocious in the long run. You just have to fortify a chokepoint like a passage though the mountains, and then they all charge through while being mowed down. Of course, if you forgot to bring anything besides infantry, they just end up slicing through your front lines.},
+NORMAL{In Age of Empires III, though, you can always build these little outposts to the sides of the passageway. Those handy structures then proceed to fire arrows down upon the invading armies. The only problem was that you needed a good amount of infantry to act as a meat shield while the outposts took their sweet time reloading.
+},
+HARD{I've always wondered why we used infantry to slow the invader's charge through the chokepoint, though, if we had access to walls that we could theoretically barricade the chokepoint with. On the other hand, if we made it too hard for them to go through, they might go around the mountains and get us from behind.},
+LUNATIC{While the game doesn't allow you to build more than just a few outposts each, it's more than enough to completely fill up the sides of the chokepoint and make it virtually impossible to get through. Although, how do the outposts even fire in the first place if you don't even have to place anyone inside them to work?}
+}
+VIONA{
+MAKE{I had thought that everyone kind of got tired by Tetris by now, but according to Facebook, there's still people doing it from time to time! Haha, and you even tried hiding the statuses and whatnot. To actually make the program though, I basically had to force my tetris program into this one here and duct tape it all together.
+
+}
+EASY{Tetris pieces fall from the sky. Of course, it's not as simple as just dodging the pieces. After all, the completed lines can't just be transferred to an opponent's screen. On the other hand, at least you don't have to worry about other people sending you 12 lines at once to instantly kill you.
+}
+
+NORMAL
+{Tetris pieces fall from the sky. It'd be nice if the real game was like this and gave you the exact same pieces over and over though. Well, that's assuming you figure out how to get rid of them in some neat manner. It's a good thing that the pieces here don't pile up towards the top though.
+},
+
+HARD
+{Tetris pieces fall from the sky. Now, they clear out several lines at a time until they get a perfect tetris. Is getting more lines at a time that important though? If you do it one line at a time, it's easier to build up combos while hitting all those bombs as well. I guess it doesn't matter for Sprint though.
+},
+
+LUNATIC
+{Tetris pieces fall from the sky. I frankly still do not understand how people manage to be this good at tetris. It's rather amazing how they manage to figure out how the pieces fit together in a few nanoseconds. Meanwhile, I always find myself with an O block when there isn't a single flat area of blocks left.
+}}
+
+
+EUNBIN{
+MAKE{Angry Birds. Tickling. This one didn't take too long to think up of. Choosing between the different birds was harder though. The green boomerang bird was thrown out during the brainstorming because it moves awkwardly and all of the birds would probably miss the player. I knew Blue had to be Lunatic, which also worked out really well since it DID end up the hardest.
+
+}
+EASY
+{Tickling may result in injury or death. Do so at your own risk. I always loved the red birds, even if they have no powers. Perhaps it's because, powerless as they are, they still charge right on in. It's rather noble of them to launch themselves on often futile endeavors. Not to mention their battle cry.
+},
+
+NORMAL
+{Tickling may result in injury or death. Do so at your own risk. The yellow birds were really fun to play with. You could try to thread them through a tiny gap, bounce them hard off the ground, or shoot them way high in the sky. Although it does make me rather sad when one misses the mark and barely scratches a glass panel.
+},
+
+HARD
+{Tickling may result in injury or death. Do so at your own risk. I always thought black birds were kinda overpowered. Like, they can destory all the other bricks that other birds can, and they keep their speed better than most other birds. I wonder why evolution doesn't lead to all angry birds becoming the black kind. Well, I guess they do self-destruct.
+},
+
+LUNATIC
+{Tickling may result in injury or death. Do so at your own risk. Those blue birds. They look so amiable. And then, before you know it, they explode into a torrent of death, threatening destruction to all unfortunate enough to face their wrath, razing all traces of hopes and dreams.
+}}
+
+
+DAEUN{
+MAKE{I was thinking of doing something on intense spiciness or some anime at first, but there seemed to be too many possible food attacks at the time and I didn't know much anime well enough. Once I decided on music though, an earlier idea focused more on a orchestra of enemies that spawned bullets, with the orchestra containing more "instruments" on harder levels.
+
+}
+EASY
+{Waves of music spiral outwards. I like the sound of pizzicato. It goes pluck, pluck, pluck. Like a faint drizzle in the autumn morning. It's a bit of a sharper contrast to the usual melodic bowing of the violin.
+},
+
+NORMAL
+{Waves of music spiral outwards. It seems every violinist plays with vibrato, trembling their hands in a calculated manner to provide the greatest depth to a note. Doesn't it get really tiring playing through a whole concert like that though? How did someone invent this in the first place anyway?
+},
+
+HARD
+{The waves of music spiral outwards. Tremelo produces a bit of a deep hum. It sounds pretty ominous to me. I guess it's supposed to indicate some sort of mysterious unknown approaching force. Personally, it kinda reminds me of mosquitoes. Which is reason enough to sound ominous to me.
+},
+
+LUNATIC
+{The waves of music spiral outwards. I think arpeggio is when they spread out the notes in a chord so they're played sequentially rather than simultaneously. It makes it a little asymmetric, but that's probably why it sounds a bit nicer. Too much symmetry is a bit artificial, isn't it?
+}}
+
+
+HUONG{
+MAKE{I was considering making cats appear everywhere with "KAWAIII~<3" appearing on screen, but that was a bit too similar to other ones that just made outlines of shapes. Also, I initially was going to do only crochet, and I wanted to do 4 different types of crochet stitches. A chain stitch was hard enough though, and looking at a legit crochet stitch made me cry. Yay knitting.
+
+}
+EASY
+{The first step in any crochet project. I love how neat it looks, even if it's so simple to make. Well, "simple" is kind of relative. I'm sure it'd be really easy to make with the use of some graph theory and maybe some engineering tools... but I don't think that's the spirit of crochet.
+},
+
+NORMAL
+{The first step in any crochet project. Now that I think of it, the "simplest" part of crochet is still magnitudes harder than most other things I've run across. Not to mention any attempts I ever tried at this unravel as fast as the threads in the attack here.
+},
+
+HARD
+{A basic yet effective knitting pattern. Knitting kinda seems like it'd be easier to do than crochet. I forgot which one you use just one main needle/crochet thing and which one you use two. And I think one uses yarn while the other just uses a thread. So complicated...
+},
+
+LUNATIC
+{A basic yet effective knitting pattern. I really love the pattern though. It's just so fascinating, how the thread goes over and under. Everything made in knitting and crochet is just basically a huge knot, except it's sculpted into an art piece.
+}}
+
+
+BEN{
+MAKE{I actually completed an entirely different, playable design based off of Riku and Sora's KH2 limit break finisher, "All's End". It basically consisted of blue and yellow bullets spawning and exploding into each other just like the original. Unfortunately, no one recognized it, so I decided to start over and make this current one using Riku's moveset from KH Re:CoM.
+
+}
+EASY{"Once we step through, we might not be able to come back. We may never see our parents again. There’s no turning back. But this may be our only chance. We can’t let fear stop us! I’m not afraid of the darkness!"
+},
+NORMAL{"Something...tastes kind of funny... What is it? It's so familiar... Darkness. The taste of darkness. What's happened to me... The darkness even seeps into my senses."
+"Yeah, there's darkness inside me, just like you said. But darkness is my enemy! And you are, too, for making everything around here reek of it!"
+},
+HARD{"What are you making me choose now?"
+"Between the road to light and the road to darkness."
+"Neither suits me. I'm taking the middle road."
+"Do you mean the twilight road to nightfall?"
+"No. It's the road to dawn."
+},
+LUNATIC{Beyond the path without you is a forgotten promise to keep. We may have walked side by side, but now we go on back to back. And though our paths may not cross, all paths are connected somewhere. When I arrive at where you are,we may not appear to be as we were...\n But we'll make another promise to keep.
+}
+}
+EMPTY{
+EASY{
+},
+NORMAL{
+},
+HARD{
+},
+LUNATIC{
+}
+}
+TEO{
+MAKE{It was a little hard to come up with a coherent set of attacks for this. I threw around ideas like the Big Bang Theory logo or trollfaces with imma chargin my lazor stuff, but both of them seemed a bit too literal and artificial. Instead, I settled with 4 (5 if you count the beginning cheap shot) of the most troll things that happen in the Touhou games.
+
+}
+EASY{Um, lol. Y'know, sometimes in life, you have to expect the unexpected, right? If you just stroll along life taking everything by its face value, you'll get tripped up pretty easily. You step out of the taxi to go into the bank... and you realize they dropped you off at the Bank of Comerica.
+},
+NORMAL{Haha, psyche. Just when you start to expect things to go one way, it goes the other way. Just when you think you've finished studying for the test, you receive an email stating that there's changes to the material covered. The morning after the all-nighter, you learn the email was mistaken. 
+},
+HARD{Surprise! You might think you've overcome an obstacle, but you'll want to think twice on that, or you're in for quite a surprise. I mean, who doesn't love that feeling when you've finished the 3 hour long math hw. And you subsequently learn that you did problems from an outdated edition of the textbook.
+},
+LUNATIC{Welp. There are times when you just have no idea what the hell is going on. Everything's flying everywhere and you're sitting there confused, unable to make head or tails of the situation. Wonder if that's how people at the gym feel when I walk in there with a t-shirt sporting a delta-epsilon proof.
+}
+}
+GAMMATAU{
+MAKE{Haha, I knew from the very beginning that it was going to be like this. Well, I was set with an apple theme, but I wasn't actually sure what to do with them. I played around with a few ideas, and eventually, I decided to just compile them together to create progressively harder spellcards as you can see.
+
+}
+EASY{An unripe fruit brimming with potential. Everything takes time to develop, with some taking longer than others. Still, even those that take forever to mature can still end up being the best. In the meanwhile, you kind of have to just bear with it and keep waiting.
+},
+NORMAL{A delicious fruit symbolic of knowledge. It's said that it was a falling apple that inspired Newton to his greatest works, but apples are also often used to depict the fruit that led to Adam and Eve's demise. For better or worse, though, apples probably have something to do with knowledge.
+},
+HARD{An brilliant prize that proves inedible. It's said that King Midas asked for the power to turn all he touched into gold. Once granted the power, he realized his power turned his food into valuable yet useless lumps of gold. It definitely helps to think ideas through before you go forth with them.
+},
+LUNATIC{A clever idea with a fatal flaw. "Fridge Logic" is a term for seemingly logical ideas with subtle flaws. The term was coined as such because of how people might be grabbing something from the fridge when they realized that a movie they watched that afternoon had a plot twist that made no sense.
+}
+}
+SAM{
+MAKE{I knew from the beginning I wanted something to do with literally doing a linear transformation of the bullet's coordinates, but that still leaves (countably) infinite possibilities. Some prototypes were making them just turn or teleport across the screen. Eventually, I went with my own spin on one of my favorite attacks from the original Touhou games.
+
+}
+EASY{Fractals are lovely self-similar patterns. Since fractals are made up of parts that are similar to itself, they can become pretty complex even if you start with a fairly simple base. This attack isn't really the usual kind of fractal though, since it's self similar across time rather than space.
+},
+NORMAL{A dynamic system, where the next iteration is built off the previous one. That means that as long as you know the initial steps and the rules that determine how each subsequent step is created, you can figure out how everything will turn out. Great for simulating stuff in things like chemistry.
+
+},
+HARD{A linear transformation basically changes a set of values according to a few simple rules. It's basically a function that can work in more dimensions and whatnot. Likewise, this attack evolves through the use of linear transformations to form the final attack.
+},
+LUNATIC{IT'S A MATRIX PRODUCT REALIZED! Really, like, everything in the world is a matrix product realized. Like this attack. Or even this entire game. Or maybe every game out there. There's no running away from it; math is everywhere in the world. EVERYWHERE.
+}
+}
+JAMES{
+MAKE{At first, I was thinking about making attacks based off our fail Physics/Chemistry 1st lab experiments, but that seemed too... fail-ish. Then, when I saw your E3 pass on Facebook, I was baffled on how I hadn't realized to base something off of Persona earlier. I also thought about doing Yosuke to Kanji instead of MC to Yukiko, but Kanji's magic sucks too much...
+
+}
+EASY{Izanagi, a diety in Japanese mythology. Izanagi abandoned his wife, Izanami, while rescuing her from the underworld, leading her to subsequently swore to kill 1000 humans every day. Izanagi then swore to have 1500 humans born every day. It's a rather noble goal inspired by a fairly treacherous incident.
+},
+NORMAL{Jiraiya, a mythical Japanese figure who could use magic to transform into a frog. I'm sure it's a cooler power than it sounds. Maybe. I'm not actually that sure what you could do as a frog. Might be cool if the frog could breathe fire or something, but I think that's from somewhere else.
+
+},
+HARD{Tomoe Gozen, a female samurai that fought in the wars of ancient Japan. She became a legendary figure after she disappeared after a major battle. It always seems that people become more renowned once they vanish or die. Kinda sucks that they might be totally unpopular when they're alive though.
+},
+LUNATIC{Konohana Sakuya, a daughter of a mountain god. She was accused of infidelity after she became pregnant after her first night of marriage. She then stood inside a blazing fire, coming out unscathed, proving that she had been faithful. I wish everyone could become fireproof by being honest.
+}
+}
+JOSH{
+MAKE{Another one where I considered basing the attacks off of cooking, but I didn't know exactly where to start on that. After some thought, I decided to go with something deeper in nihilism. A little note is that I made a mistake on the Hard version of this; I first misread it as "Will to Move", so the bullet pattern was actually inspired by that slightly different concept.
+
+}
+EASY{Nietzsche used this term, meaning "God is Dead". It describes the nihilistic idea that there is no omnipotent being that grants an inherent meaning to everything in everyone's life. As a result, the people's desire to find order and meaning only leads them to apparently meaningless chaos.
+},
+NORMAL{A term in nihilism describing the jealousy people feel towards their superiors. The theory states that when people are frustrated by their own inabilities, they choose to simply reject everything around them. However, it's also the first step in eventually finding one's own identity.
+
+},
+HARD{"Will to Power" in German, this term refers to how everyone and everything is ultimately motivated by the need to better themselves. Although it can manifest itself in different ways, such as through violence or through nurture, it ultimately propels society and the world forward to progress.
+},
+LUNATIC{A nihilism term meaning "Super Human". Thought to be the ideal state of man, such a person is able to acknowledge the lack of inherent meaning in the universe. The person thus is able to fill in the meaningless void with his or her own ideals, creating order from where there previously was none.
+}
+}
+JISU{
+MAKE{Ooh. This ONE. This was one of the first concepts I came up with, but I left it to be the very last one to be coded, just because of how daunting it seemed. And oh boy, was it quite a monster to code! Also, I was going to draw your favorite KPopStar singer I found from stalki- er, marketing research, but I wasn't sure if he was actually your favorite. Google translate sucks.
+
+}
+EASY{A lovely sketch of a lovable pal. Some sketches really bring the subject to life. I think there's kind of a difference between a picture, which captures just everything about the subject, and a drawing, where you get the opportunity to really bring out the best features.
+},
+NORMAL{A rapid drawing of a loyal friend. Man, I wish my dog loved me enough to hold onto the underside of the porch for me. Though he does love chasing squirrels. Except, last time he managed to chase down a squirrel, the squirrel attacked with such ferocity that my dog ran back whining in fear.
+},
+HARD{A detailed depiction of a true lover of science. This is how science truly ought to be done. Forget those silly theories and formulas and whatnot, and just try out whatever the hell seems awesome / smart / not-so-smart. Columbus didn't discover the Americas because he did the math, y'know.
+},
+LUNATIC{This guy is ready to be a movie star. Someone please tell me how to draw faces. I know the eyes are each as a fifth as wide as the whole face. The bridge of the nose curls in from the eyebrows. I can do geometry. Unfortunately, that's about the only thing my drawings have in common with a real face.
+}
+}
+TONGJIA{
+MAKE{I was pretty set on how this one was going to show up. Kinda. At first, I thought your favorite character was Gaara for a second, so I was going to do Sand Burial and Sand Tsunami, and then I realized that your favorite was actually Sasori. I was thinking of doing the puppets, but tbqh, in bullet hells, 100 is not actually that big of a number. That and World Order looks too cool.
+
+}
+EASY{The user manipulates massive volumes of iron sand in order to create weapons best suited for the environment. The triangular formations are effective at piercing the opponent, while the rectangular ones are just better at smashing things. Maybe it might have been more effective to make a huge baseball bat though.
+},
+NORMAL{The use of great volumes of magnetite manipulated through magnetism. The use of magnetism also supposedly disables the use of all metal items to further disable the opponent. How does the user possibly get so much magnetite though? You could make a LOT of those rare earth magnets with that.
+},
+HARD{The user combines great masses of iron sand that repels to form a rapidly expanding net of sand. It looks like a giant net of sorts that you might use to go bug catching or something. You might be able to pierce something with all those spikes shooting everywhere. 
+},
+LUNATIC{The user unleashes the ultimate iron sand technique. Of course, you can only use this attack if you have the ability to use magnet release, or you have control over someone who does. Otherwise, it just crumbles away. But it's kind of more dangerous when it's crumbling, actually.
+}
+}
+IVAN{
+MAKE{Another one I was thinking of doing a cuisine based attack! But, then, I thought that cooking really wasn't something unique enough (as far as I could emulate, since I don't know what Singaporean dishes you like to make), but being able to take down all those zombies for all that time really WAS quite something in my opinion. Noodler zombies were also considered but they seemed too awkward to use.
+
+}
+EASY{A somewhat pitiful zombie charge. The whole point of a zombie charge is that they're supposed to use sheer numbers to overwhelm the humans. The inexperienced players just rush in one by one though, so they're easily dispatched by any competent human.
+},
+NORMAL{A rush of nightstalkers. They're supposed to be better than normal zombies. I'm not sure if their faster respawning rate makes any difference. It might just be that only zombies that can catch humans become nightstalkers, so they have a good amount of skill. Still not too hard for a player to dispatch though.
+},
+HARD{Swarm of double-taps. These guys are legitimately scary. If you just got some random gun that takes 5 seconds to fire and jams half the time, you have pretty much no chance against these guys. At this point, you need more of the hardcore players with their modded automatics to take the zombies on.
+},
+LUNATIC{A wave of bone zombies. To be quite honest, the little tiny cardboard shield is kinda funny. The fact that these zombies are already eating humans every day for breakfast, not so funny. The stuff of every human's nightmares, only the toughest can survive this onslaught.
+}
+}
+SACHIT{
+MAKE{I think this was the very first one I made, since how could I possibly push back making disco balls in a bullet hell game, lol? The bullets were actually supposed to make a sort of a beat, but that's kind of covered up now that I have actual background music playing. The laser bullets were made specifically for this attack.
+
+}
+EASY{A pretty laid back party. You can elect to dance, or if you're not up for that, there's always the tables if you feel like gambling a bit. On the other hand, after you end up losing pretty much everything you have, it might just be better to dance your worries away. School hasn't even started anyway.
+},
+NORMAL{A nice way to relax a bit before school starts. The first major party, you're sure to run into people who aren't even that regular of party-goers. Ah, it's a wonderful place to meet wonderful people and learn all those amazing dance moves from the master himself.
+},
+HARD{A pretty hard core party that comes after weeks of preparation. At first, it looks like topless had a little too much fun and flipped a whole bunch of tables over the outdoor quad. But then, they fill it up and turn on the lights and it's a blast! Or so I hear, I didn't actually go this year...
+},
+LUNATIC{This is IT. THE party of the year. I mean, even all the non-partying dorms can feel the beat of this party! Sure, they might be feeling it despite the several feet of walls, doors, blankets, pillows, ear plugs, and their own free will, but I'm sure they'll eventually appreciate it in retrospect.
+}
+}
+MICHAEL{
+MAKE{I was pondering between badminton and table tennis for a while, but badminton birdies are too easy to dodge. I also derped up at first and made the lines for regular tennis instead of table tennis. I loved how I randomly got the inspiration to incorporate both Pokemon and Touhou into this attack though. Yay for 3 references in 1!
+
+}
+EASY{A rapid serve that leaves little time to react. I have no idea how these table tennis serves work. The paddle barely even moves, but the ball shoots across the table. I can get my paddle on it, like, half the time, and the rest of the time, it bounces off the wall behind me and lands back onto the table.
+},
+NORMAL{A tricky serve that swerves as soon as it goes across the court. There are some really insane spin serves out there. Like, there are ones that start flying normally, and bounce on your side normally, but then kicks off sideways once it hits your paddle. Still don't know how that works.
+},
+HARD{A blindingly fast serve that strikes before the opponent can react. It's always nice to have a fallback in case your plans don't turn out well and your opponent starts to gain some momentum. It doesn't have to hit hard as long as it interrupts their streak, and that might be good enough to save the game.
+},
+LUNATIC{A legendary serve that pierces the air as if driven by fate. It's really annoying how it goes exactly where it's supposed to, no matter how unlikely or seemingly impossible it might be. Well, at least it doesn't explode on impact here. And it's technically grazable, lol.
+}
+}
+MICHELLE{
+MAKE{At first, I was musing over doing something about perhaps One Direction. (Though I have NO idea how I would have gotten that to work.) In the end though, I realized that one of the most amazing things about you was how you and Stephanie were totally made for each other! And I think it's amazing to see people bold enough to take on Chem. Because I'm not XD
+
+}
+EASY{A chemical process that usually occurs in conjunction with the complementary process "Oxidization". All of the electrons start flowing inwards from some electron donor. I still find it confusing that something becomes reduced when they actually are gaining electrons.
+},
+NORMAL{The negative charge that can form on some areas of molecules, and is usually created in conjunction with "+q". They also find themselves strongly attacted to those molecules with opposing charge, and it's forces like these that help build up amazing structures like DNA and whatnot.
+},
+HARD{A charged ion that tends to draw in ions with opposing charge called "Anions". They two together can form a salt if their bond is strong enough to form a single solid form. While some salts dissolve in water, others are so strongly bonded together that they'll precipitate out of a solution.},
+LUNATIC{A site where, if utilized in conjuction with another site called an "Anode", allows for both the creation and utilization of great power. It's possible to set it up so you can distill electricity from chemicals in such a convenient way it could help power the entire world.
+}
+}
+STEPHANIE{
+MAKE{Oh, there were ideas like Microcosm or strawberries or badminton or even beer pong, lol. Still, the more I thought about it, what always amazes me the most is how you and Michelle are like, closer than sisters. Maybe even closer than some twins. You guys have the most awesome CHEMISTRY, y'know? Ha, haha, ha... chemistry... ha... get it? 
+}
+EASY{A chemical process that usually occurs in conjunction with the complementary process "Reduction". Named such because oxygen is pretty electron hungry and likes sucking the electrons out of surrounding atoms. Although the metals tend to be pretty generous with their electrons anyway.
+},
+NORMAL{The positive charge that can form on some areas of molecules, and is usually created in conjunction with "-q". Furthermore, these regions form bonds with molecules that have the opposing charge, and those bonds make up a vast number of the complex chemical structures we run into everyday.
+},
+HARD{A charged ion that tends to draw in ions with opposing charge called "Cations". Most of them won't hold together by themselves, dissolving into a solvent if possible. Instead, they need the pull of cations to form a lattice structure in order to keep their form as a solid crystal.
+},
+LUNATIC{A site where, if utilized in conjuction with another site called a "Cathode", allows for both the creation and utilization of great power. A certain configuration allows you to channel electricity into the chemicals such that they plate onto each other, allowing for easy applications of metals.
+}
+}
+KIWAN{
+MAKE{Fencing was just like one of those random thoughts at first, among other things like math or coding competitions. But when I first saw a video of fencing in progress, I knew I HAD to do it. I had to go look through quite a few youtube videos to get enough inspiration though. It also took some work to get that musical "rhythm" to show up in the attack.
+
+}
+EASY{The rapid exchange of back and forth strikes. Two fencers go head to head, strategically maneuvering to open up or defend the lines of attack while trying to gain right of way. A little waver of the foil is deflected away by the opponent's, and the two foils go to and fro in a focused yet rhythmic bout.
+},
+NORMAL{A straightforward offensive charge. You can't hesitate if there's an opening, or your strike won't be as effective. Of course, you also have to be accurate with your judgment. Misjudge the attack and you're most certainly going to end up losing instead.
+},
+HARD{A quick deflection of the foil. An opposing attack can either be dodged or deflected away from the initial line of attack. You'll need to quickly judge where the attack is coming from, and you'll have to make sure that the opponent isn't able to immediately attack again afterwards as well.
+},
+LUNATIC{A powerful counterattack. Once you parry an attack, you can try striking the opponent while they're unable to defend themselves. They incorporate tactics like these in video games all the time, granting you bonuses like a "critical hit" if you hit someone after you deflect their attack.
+}
+}
+KAEW{
+MAKE{Ah, yet another one I wanted to do on food at first! (As it turns out, NONE of the final attacks were based on cooking!) But then I stepped back and thought a bit. Derp. You literally cannot get anything BETTER than Astronomy as an inspiration for bullet hell attacks. I thought about doing more physical stuff like parallax or solar wind before just settling with nebulas.
+
+}
+EASY{The leftovers of a relatively minor cosmic incident. I thought novas got their name because people used to think they were "new" stars, but didn't they notice that the new stars didn't last very long? Not to mention the event itself is more like a star choking than a star being born.
+},
+NORMAL{A bright ionized region in the sky. Man, stuff gets ionized in space really easily. It seems like everything in space is capable of creating these colorful displays. Maybe it's because it's easier to discover those easy-to-spot things in space, and we don't know about the duller stuff out there? 
+},
+HARD{A reflective cloud formed from an ejected shell of gas. I wonder if these things are visible to the naked eye? Probably not if you live anywhere decently populated though. It's a shame how a little bit of light pollution makes us oblivious to all the shiny things way out there.
+},
+LUNATIC{An impressive display of the remains of a massive star. These stars exploded a long time before we ever saw them though. That also means that a lot of the stars that we see now could already be gone. It feels weird that people are categorizing these objects even if they might not actually exist anymore.
+}
+}
